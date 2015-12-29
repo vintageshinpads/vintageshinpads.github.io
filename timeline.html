@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title></title>
+	<!-- {% load static from staticfiles %} -->
+	<link rel="stylesheet" type="text/css" href="bombay.css"/>
+	<link rel="stylesheet" type="text/css" href="timeline.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+</head>
+<style>
+    html{
+        overflow: none!important;
+    }
+    body{
+        overflow: none!important;   
+    }
+</style>
+<body>
+<div class="locale-times-header">
+	<div class="locale-times-logo-div">
+    <img src="https://s3-ap-southeast-1.amazonaws.com/locale-warehouse/static/assets/logo.png" class="locale-times-logo-img"/>
+    </div>
+</div>
+<div class="locale-times-content">
+<div id="my-timeline" style="margin-top:80px!important;"></div>
+</div>
+</body>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
+<script>
+    $(document).ready(function() {
+        createStoryJS({
+            type:       'timeline',
+            width:      '100%',
+            height:     '100%',
+            source:     'testing.json',
+            embed_id:   'my-timeline'
+        });
+    });
+</script>
+<!-- END TimelineJS -->
+</html>
