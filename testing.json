@@ -275,6 +275,18 @@
                     "credit":"Photo Credits - DINODIA",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2016,01,01",
+                "endDate":"2016,01,01",
+                "headline":"Happy New Year",
+                "text":"From everyone here @TheLocaleTimes we wish you all a very Happy 2016!",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
             }
         ]
     }
