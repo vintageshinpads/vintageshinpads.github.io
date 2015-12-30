@@ -275,6 +275,18 @@
                     "credit":"Photo Credits - DINODIA",
                     "caption":""
                 }
+            },
+            {
+                "startDate":"2015,12,31",
+                "endDate":"2015,12,31",
+                "headline":"Marine Drive completes 100 years",
+                "text":"Mumbai’s iconic Marine Drive completes 100 years",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/02663/marine_2663194g.jpg",
+                    "credit":"Photo Credits - DINODIA",
+                    "caption":""
+                }
             }
         ]
     }
