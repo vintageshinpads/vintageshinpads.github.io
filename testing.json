@@ -60,18 +60,6 @@
                 }
             },
             {
-                "startDate":"2015,02,19",
-				"endDate":"2015,02,19",
-                "headline":"Final screening of DDLJ at Mumbai’s Maratha Mandir after 1,009-week run",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://www.thehindu.com/multimedia/dynamic/02241/4_DDLJ_Movie_vb_2241744g.jpg",
-                    "credit":"Photo Credits - The Hindi",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2015,03,02",
                 "endDate":"2015,03,02",
                 "headline":"Maharashtra bans beef",
@@ -123,7 +111,7 @@
             {
                 "startDate":"2015,05,08",
                 "endDate":"2015,05,08",
-                "headline":"2 days after being sentenced to 5 years of jail, sessions court grants bail to Salman Khan for 2002 hit-and-run case",
+                "headline":"Salman Khan gets 2-day interim bail hours after being sentenced for 5 years",
                 "text":"",
                 "asset":
                 {
@@ -213,18 +201,6 @@
                 {
                     "media":"",
                     "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2015,10,15",
-                "endDate":"2015,10,15",
-                "headline":"Mumbai dance bars reopen",
-                "text":"Mumbai dance bars to reopen as SC rules state govt. ban as ‘unconstitutional’",
-                "asset":
-                {
-                    "media":"https://qzprod.files.wordpress.com/2015/10/rtrbmda.jpg?quality=80&strip=all&w=1024",
-                    "credit":"Photo Credits - Quartz",
                     "caption":""
                 }
             },
