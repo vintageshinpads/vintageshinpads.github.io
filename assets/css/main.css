@@ -3731,7 +3731,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-				padding-top: 44px !important;
+				padding-top: 44px;
 			}
 
 			#titleBar {
@@ -3996,5 +3996,13 @@
 						margin: 0;
 						padding: 0;
 					}
+			#titleBar{
+				background: none;
+				position: absolute;
+				box-shadow: none;
+			}
+			.toggle{
+				display: none;
+			}
 
 	}

@@ -63,7 +63,7 @@
 						'<span class="title">' + $('#logo').html() + '</span>' +
 					'</div>'
 				)
-					.appendTo($body);
+				 .appendTo($body);
 
 			// Navigation Panel.
 				$(
